@@ -81,10 +81,6 @@
     <color name="material_deep_teal_500">#ffcccccc</color>
 
     <!-- Actionbar & Status bar colors -->
-    <color name="material_blue_grey_800">#ff37474f</color>
-    <color name="material_blue_grey_900">#ff111111</color>
-    <color name="material_blue_grey_950">#ff0a0a0a</color>
-
     <color name="material_blue_grey_800">#ffCCCCCC</color>
     <!-- Actionbar Color --> 
     <color name="material_blue_grey_900">#ffE1C20A</color>
