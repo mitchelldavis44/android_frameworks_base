@@ -76,16 +76,16 @@
     <color name="material_grey_50">#ff111111</color>
 
     <!-- Settings ICONS COLOR -->
-    <color name="material_deep_teal_200">#ffE1C20A</color>
+    <color name="material_deep_teal_200">#ff1976D2</color>
 
     <color name="material_deep_teal_500">#ffcccccc</color>
 
     <!-- Actionbar & Status bar colors -->
     <color name="material_blue_grey_800">#ffCCCCCC</color>
     <!-- Actionbar Color --> 
-    <color name="material_blue_grey_900">#ffE1C20A</color>
+    <color name="material_blue_grey_900">#ff1976D2</color>
     <!-- Status Bar -->
-    <color name="material_blue_grey_950">#ffcaae09</color>
+    <color name="material_blue_grey_950">#ff166abd</color>
 
     <!-- Time picker defaults when no theme is set -->
     <eat-comment />
