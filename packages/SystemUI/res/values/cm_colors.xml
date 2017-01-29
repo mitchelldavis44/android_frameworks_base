@@ -22,4 +22,6 @@
 
     <!-- Status bar battery level text color -->
     <color name="status_bar_battery_level_text_color">#ffffff</color>
+
+    <color name="fab_color">#fff</color>
 </resources>
